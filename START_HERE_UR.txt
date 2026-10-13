@@ -1,0 +1,11 @@
+لیسر منجھلا — APK بنانے کی ہدایات
+
+اس پیکج میں دو Android پروجیکٹ ہیں: Viewer اور Admin/Edit۔ Admin کوڈ: admin789۔
+
+APK ابھی تیار شدہ فائل کی صورت میں شامل نہیں؛ GitHub Actions کے ذریعے بنے گی۔
+1) GitHub پر نیا repository بنائیں۔
+2) اس ZIP کو اپنے فون میں Extract کریں، پھر دونوں پروجیکٹ فولڈرز اور .github فولڈر repository میں اپ لوڈ کریں۔
+3) GitHub میں Actions کھول کر “Build Lesser Manjhla APKs” چلائیں۔
+4) مکمل ہونے پر run کے نیچے Artifacts میں “Lesser-Manjhla-APKs” ڈاؤن لوڈ کریں۔
+
+نوٹ: اس پروٹوٹائپ میں ریکارڈ اسی ڈیوائس میں محفوظ ہوتا ہے۔ ایپ کی ڈیٹا بیس/کلاؤڈ ہم آہنگی، اصل نماز اوقات API، اور مزید مکمل اردو/English و Dark/Light سیٹنگز اس build میں ابھی مکمل نہیں ہیں۔
